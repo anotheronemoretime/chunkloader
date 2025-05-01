@@ -8,8 +8,7 @@
         "tabs",
         "storage",
         "http://*/",
-        "https://*/",
-        "debugger"
+        "https://*/"
     ],
     "background": {
         "scripts": ["background.js"]
